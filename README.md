@@ -14,3 +14,5 @@ Training/Testing data :
 # Documentation
 Utilisation de la base de données pour entrainer sur la détection de chiffre d'abord
 http://yann.lecun.com/exdb/mnist/
+
+https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d
